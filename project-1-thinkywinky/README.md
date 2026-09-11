@@ -78,4 +78,4 @@ One interesting problem I solved: linking Pomodoro sessions in real time to spec
 
 The full source (including database schema, file structure, and setup instructions) is kept in a private repository. I'm happy to walk through the codebase in an interview or share access on request.
 
-**Contact:** *(your email / LinkedIn)*
+**Contact:** *takwaabdellaoui0@gmail.com*
