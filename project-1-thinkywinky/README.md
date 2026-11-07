@@ -76,9 +76,4 @@ One interesting problem I solved: linking Pomodoro sessions in real time to spec
 <img width="1478" height="660" alt="image" src="https://github.com/user-attachments/assets/b49774b4-c3b6-4f22-8079-e73022b84695" />
 
 
-
-## 📬 Want to see the code?
-
-The full source (including database schema, file structure, and setup instructions) is kept in a private repository. I'm happy to walk through the codebase in an interview or share access on request.
-
 **Contact:** *takwaabdellaoui0@gmail.com*
