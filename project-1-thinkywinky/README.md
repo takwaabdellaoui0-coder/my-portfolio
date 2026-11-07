@@ -2,7 +2,8 @@
 # 📚 Thinky Winky — Your Personal Study Companion
 
 <p align="center">
- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/71040558-994a-407a-9630-95336e8ea461" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/da4c499b-b171-476d-ad3e-6e796f663adb" />
+
 
 </p>
 
