@@ -2,7 +2,8 @@
 # 📚 Thinky Winky — Your Personal Study Companion
 
 <p align="center">
-  <img src="thinky__1_-removebg-preview.png" alt="Thinky Winky Logo" width="150" />
+ <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/71040558-994a-407a-9630-95336e8ea461" />
+
 </p>
 
 <p align="center">
@@ -69,10 +70,11 @@ One interesting problem I solved: linking Pomodoro sessions in real time to spec
 ---
 
 ## 📸 Screenshots
+<img width="1891" height="911" alt="Capture d&#39;écran 2026-11-08 003405" src="https://github.com/user-attachments/assets/6c757480-6b41-4d8f-9a47-2d077377735f" />
 
-*(Add a screenshot or short GIF of the dashboard, planner, and Pomodoro timer here)*
+<img width="1478" height="660" alt="image" src="https://github.com/user-attachments/assets/b49774b4-c3b6-4f22-8079-e73022b84695" />
 
----
+
 
 ## 📬 Want to see the code?
 
